@@ -3,8 +3,7 @@
 A REST API for a small clinic appointment booking system.  
 Built with **Python 3.12 · FastAPI · PostgreSQL · SQLAlchemy 2**.
 
-**Deployed URL:** `https://clinic-booking-api.up.railway.app`  
-*(replace with your actual Railway URL after first deploy)*
+**Deployed URL:** `https://clinic-booking-88fg.onrender.com`
 
 ---
 
@@ -205,10 +204,11 @@ Returns upcoming `booked` appointments for a patient, sorted by date ascending.
 
 ### Deployed Application
 
-**Public URL:** `https://clinic-booking-api.up.railway.app`  
-**Docs:** `https://clinic-booking-api.up.railway.app/docs`
+**Public URL:** `https://clinic-booking-88fg.onrender.com`  
+**Docs:** `https://clinic-booking-88fg.onrender.com/docs`
 
-*(Update this URL after your first Railway deploy — it appears in the Railway dashboard under your service.)*
+**Deployed URL:** `https://clinic-booking-88fg.onrender.com`  
+**Docs:** `https://clinic-booking-88fg.onrender.com/docs`
 
 ---
 
