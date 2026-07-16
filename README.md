@@ -207,9 +207,6 @@ Returns upcoming `booked` appointments for a patient, sorted by date ascending.
 **Public URL:** `https://clinic-booking-88fg.onrender.com`  
 **Docs:** `https://clinic-booking-88fg.onrender.com/docs`
 
-**Deployed URL:** `https://clinic-booking-88fg.onrender.com`  
-**Docs:** `https://clinic-booking-88fg.onrender.com/docs`
-
 ---
 
 ### CI/CD Pipeline
